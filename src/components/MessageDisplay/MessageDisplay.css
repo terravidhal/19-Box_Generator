@@ -1,0 +1,6 @@
+.MessageDisplay {
+    display: flex;
+    gap: 20px;
+    padding-left: 50px;
+}
+
